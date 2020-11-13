@@ -32,7 +32,7 @@ name = "linkedin"
 url  = "https://www.linkedin.com/in/iambouali"
 [params]
 customCSS = ["scss/_custom.css"]
-description = "A place where I share stuffs"
+description = "A place where Tarek Bouali share stuff"
 images = [""]
 defaultTheme = "light"
 footerLeft = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -46,7 +46,6 @@ title = "Tarek Bouali"
 #subtitle = "Hello World"
 keywords = ""
 readOtherPosts = "Read other posts"
-#copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 [languages.en.params.logo]
 logoText     = "$ ./iambouali.sh"
 logoCursorColor    = "#00f701"
