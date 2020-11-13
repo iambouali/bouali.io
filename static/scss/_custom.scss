@@ -7,7 +7,8 @@ $media-size-tablet: "(max-width: 900px)";
     		margin-left: 5px !important;
 	}
 	.footer__content > :last-child {
-    		padding: 0px !important;
+    		content: "•" !important;
+		padding: 0px !important;
 	}
 	.footer__content {
     		display: unset !important;
@@ -15,10 +16,5 @@ $media-size-tablet: "(max-width: 900px)";
 	& > *:not(:last-child)::after {
       		content: "•";
       		padding: 0 5px;
-
-      		@media #{$media-size-tablet} {
-          		content: "•";
-          		padding: 0;
-      		}
    	 }
 }

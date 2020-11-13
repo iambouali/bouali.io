@@ -3,15 +3,12 @@
   content: "•" !important;
   margin-left: 5px !important; }
 .footer .footer__content > :last-child {
+  content: "•" !important;
   padding: 0px !important; }
 .footer .footer__content {
   display: unset !important; }
 .footer > *:not(:last-child)::after {
   content: "•";
   padding: 0 5px; }
-  @media (max-width: 900px) {
-    .footer > *:not(:last-child)::after {
-      content: "•";
-      padding: 0; } }
 
 /*# sourceMappingURL=_custom.css.map */
