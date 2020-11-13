@@ -3,17 +3,13 @@ $media-size-tablet: "(max-width: 900px)";
 
 .footer {
         .footer__content > :not(:last-child)::after {
-    		content: "•";
-    		padding: 0 5px;
+    		content: "•" !important;
+    		padding: 0 5px !important;
 	}
 	&>*:not(:last-child)::after {
 		content: "•" !important;
 		padding: 0 5px !important;
-		@media #{$media-size-tablet} {
-			content: "•" !important;
-			padding: 0 5px !important;
-		}
-	}
+        }
 	&>*:last-child {
 		padding: 0 !important;
 		@media #{$media-size-tablet} {
