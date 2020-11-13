@@ -1,4 +1,4 @@
-baseurl      = ""
+baseurl      = "/"
 title        = "Tarek Bouali"
 languageCode = "en-us"
 theme        = "hello-friend"
