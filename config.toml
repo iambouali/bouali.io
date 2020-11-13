@@ -15,7 +15,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 disableReadOtherPosts = false
 enableSharingButtons = true
-#customCSS = "static/css/index.css"
+customCSS = [static/css/index.css]
 [permalinks]
 posts = "/posts/:year/:month/:title/"
 [author]
