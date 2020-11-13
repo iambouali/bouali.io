@@ -12,10 +12,13 @@ $media-size-tablet: "(max-width: 900px)";
 	.footer__content {
     		display: unset !important;
 	}
-	&>*:last-child {
-		padding: 0 !important;
-		@media #{$media-size-tablet} {
-			padding: 0 !important;
-		}
-	}
+	& > *:not(:last-child)::after {
+      		content: "•";
+      		padding: 0 5px;
+
+      		@media #{$media-size-tablet} {
+          		content: "•";
+          		padding: 0;
+      		}
+   	 }
 }
