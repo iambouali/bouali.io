@@ -1,0 +1,62 @@
+baseurl      = "https://bouali.io/"
+title        = "Tarek Bouali"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+relativeURLs = true
+canonifyURLs = true
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = false
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+disableReadOtherPosts = false
+enableSharingButtons = true
+[permalinks]
+posts = "/posts/:year/:month/:title/"
+[author]
+name = "Tarek Bouali"
+# Social icons
+[[params.social]]
+name = "twitter"
+url  = "https://twitter.com/iambouali"
+[[params.social]]
+name = "email"
+url  = "mailto:me@bouali.io"
+[[params.social]]
+name = "github"
+url  = "https://github.com/iambouali"
+[[params.social]]
+name = "linkedin"
+url  = "https://www.linkedin.com/in/iambouali"
+[params]
+dateform        = "Jan 2, 2006"
+dateformShort   = "Jan 2"
+dateformNum     = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
+description = "My personal website, a place where I share things."
+images = [""]
+defaultTheme = "light"
+[taxonomies]
+category = "blog"
+tag      = "tags"
+[languages]
+[languages.en]
+title = "Tarek Bouali"
+# subtitle = "Hello World"
+keywords = ""
+readOtherPosts = "Read other posts"
+[languages.en.params.logo]
+logoText     = "$ ./iambouali.sh"
+logoCursorColor    = "#00f701"
+[[menu.main]]
+identifier = "blog"
+name       = "Blog"
+url        = "/posts"
+[[menu.main]]
+identifier = "about"
+name       = "About"
+url        = "/about"

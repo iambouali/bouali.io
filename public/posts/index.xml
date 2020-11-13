@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Tarek Bouali</title>
+        <link>https://bouali.io/posts/</link>
+        <description>Recent content in Posts on Tarek Bouali</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <atom:link href="https://bouali.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://bouali.io/posts/1/01/hello-world/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>https://bouali.io/posts/1/01/hello-world/</guid>
+            <description>Hello World! </description>
+            <content type="html"><![CDATA[<h3 id="hello-world">Hello World!</h3>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
