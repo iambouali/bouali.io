@@ -1,7 +1,7 @@
 baseurl      = "https://bouali.io/"
 title        = "Tarek Bouali"
 languageCode = "en-us"
-theme        = "hello-friend-ng"
+theme        = "hello-friend"
 paginate     = 10
 relativeURLs = true
 canonifyURLs = true
