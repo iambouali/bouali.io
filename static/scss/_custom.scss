@@ -1,0 +1,16 @@
+.footer {
+	&>*:not(:last-child)::after {
+		content: "•" !important;
+		padding: 0 5px !important;
+		@media #{$media-size-tablet} {
+			content: "•" !important;
+			padding: 0 5px !important;
+		}
+	}
+	&>*:last-child {
+		padding: 0 !important;
+		@media #{$media-size-tablet} {
+			padding: 0 !important;
+		}
+	}
+}
