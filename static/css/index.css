@@ -1,0 +1,15 @@
+&>*:not(:last-child)::after {
+	content: "•";
+	padding: 0 5px;
+	@media #{$media-size-tablet} {
+		content: "•";
+		padding: 0 5px;
+	}
+}
+
+&>*:last-child {
+	padding: 0;
+	@media #{$media-size-tablet} {
+		padding: 0;
+	}
+}
