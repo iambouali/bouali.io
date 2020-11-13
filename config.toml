@@ -33,7 +33,7 @@ url  = "https://github.com/iambouali"
 name = "linkedin"
 url  = "https://www.linkedin.com/in/iambouali"
 [params]
-customCSS = ["static/css/custom.css"]
+customCSS = ["css/custom.css"]
 description = "A place where I share stuffs"
 images = [""]
 defaultTheme = "light"
