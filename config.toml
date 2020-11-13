@@ -15,7 +15,6 @@ disable404     = false
 disableHugoGeneratorInject = false
 disableReadOtherPosts = false
 enableSharingButtons = true
-customCSS = ["css/index.css"]
 [permalinks]
 posts = "/posts/:year/:month/:title/"
 [author]
@@ -34,11 +33,8 @@ url  = "https://github.com/iambouali"
 name = "linkedin"
 url  = "https://www.linkedin.com/in/iambouali"
 [params]
-dateform        = "Jan 2, 2006"
-dateformShort   = "Jan 2"
-dateformNum     = "2006-01-02"
-dateformNumTime = "2006-01-02 15:04"
-description = "My personal website, a place where I share things."
+customCSS = ["css/custom.css"]
+description = "A place where I share stuffs"
 images = [""]
 defaultTheme = "light"
 [taxonomies]
