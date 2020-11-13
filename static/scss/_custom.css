@@ -1,7 +1,9 @@
 @charset "UTF-8";
-.footer .footer__content > :not(:last-child)::after {
+.footer .footer .footer__content > :not(:last-child)::after {
   content: "•" !important;
-  margin-left: 8px !important; }
+  margin-left: 5px !important; }
+.footer .footer__content > :last-child {
+  padding: 0px !important; }
 .footer .footer__content {
   display: unset !important; }
 .footer > *:last-child {
