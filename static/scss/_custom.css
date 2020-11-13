@@ -6,10 +6,12 @@
   padding: 0px !important; }
 .footer .footer__content {
   display: unset !important; }
-.footer > *:last-child {
-  padding: 0 !important; }
+.footer > *:not(:last-child)::after {
+  content: "•";
+  padding: 0 5px; }
   @media (max-width: 900px) {
-    .footer > *:last-child {
-      padding: 0 !important; } }
+    .footer > *:not(:last-child)::after {
+      content: "•";
+      padding: 0; } }
 
 /*# sourceMappingURL=_custom.css.map */
