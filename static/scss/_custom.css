@@ -1,11 +1,10 @@
 @charset "UTF-8";
+.footer .footer__content > :not(:last-child)::after {
+  content: "•" !important;
+  padding: 0 5px !important; }
 .footer > *:not(:last-child)::after {
   content: "•" !important;
   padding: 0 5px !important; }
-  @media (max-width: 900px) {
-    .footer > *:not(:last-child)::after {
-      content: "•" !important;
-      padding: 0 5px !important; } }
 .footer > *:last-child {
   padding: 0 !important; }
   @media (max-width: 900px) {
