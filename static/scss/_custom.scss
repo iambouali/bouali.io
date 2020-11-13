@@ -1,3 +1,6 @@
+$media-size-phone: "(max-width: 684px)";
+$media-size-tablet: "(max-width: 900px)";
+
 .footer {
 	&>*:not(:last-child)::after {
 		content: "•" !important;
