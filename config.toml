@@ -17,8 +17,8 @@ disableReadOtherPosts = false
 enableSharingButtons = true
 [permalinks]
 posts = "/posts/:year/:month/:title/"
-[author]
-name = "Tarek Bouali"
+#[author]
+#name = "Tarek Bouali"
 # Social icons
 [[params.social]]
 name = "twitter"
@@ -37,13 +37,15 @@ customCSS = ["scss/_custom.css"]
 description = "A place where I share stuffs"
 images = [""]
 defaultTheme = "light"
+footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+footerRight = "Made with &#10084; by <a href=\"https://github.com/iambouali\">iambouali</a>"
 [taxonomies]
 category = "blog"
 tag      = "tags"
 [languages]
 [languages.en]
 title = "Tarek Bouali"
-# subtitle = "Hello World"
+#subtitle = "Hello World"
 keywords = ""
 readOtherPosts = "Read other posts"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
