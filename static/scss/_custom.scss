@@ -2,10 +2,11 @@ $media-size-phone: "(max-width: 684px)";
 $media-size-tablet: "(max-width: 900px)";
 
 .footer {
-	.footer__content > :last-child {
+	.footer__content > :not(:last-child)::after {
     		content: "•" !important;
-		padding: 0 !important;
-		margin-left: 5px !important;
+    		padding: 0 !important;
+    		margin-left: 5px !important;
+   		margin-right: -5px !important;
 	}
 	.footer__content {
     		display: unset !important;
