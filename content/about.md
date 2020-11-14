@@ -28,8 +28,9 @@ These are certifications that I have pending and I hope to get them soon.
 
 Below I would like to name a small list of books that I really liked.
 
-* Robert C. Martin: The Clean Coder: A Code of Conduct for Professional Programmers
-* Robert C. Martin: Clean Code: A Handbook of Agile Software Craftsmanship
+* Robert C. Martin: 
+	- The Clean Coder: A Code of Conduct for Professional Programmers
+ 	- Clean Code: A Handbook of Agile Software Craftsmanship
 * Peter Yaworski: Real-World Bug Hunting: A Field Guide to Web Hacking
 * Dafydd Stuttard: The Web Application Hacker's Handbook
 
