@@ -34,7 +34,7 @@ url  = "https://www.linkedin.com/in/iambouali"
 name = "hackerone"
 url  = "https://hackerone.com/iambouali"
 [params]
-customCSS = ["scss/_custom.css"]
+customCSS = ["/scss/_custom.css"]
 description = "A place where Tarek Bouali share stuff"
 enableSharingButtons = true
 images = [""]
