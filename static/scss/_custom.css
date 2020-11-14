@@ -4,11 +4,5 @@
   padding: 0 !important;
   margin-left: 5px !important;
   margin-right: -5px !important; }
-  @media (max-width: 900px) {
-    .footer .footer__content > :not(:last-child)::after {
-      content: "•" !important;
-      padding: 0 !important;
-      margin-left: 5px !important;
-      margin-right: 0px !important; } }
 
 /*# sourceMappingURL=_custom.css.map */
