@@ -6,7 +6,7 @@ paginate     = 10
 relativeURLs = true
 canonifyURLs = true
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = false
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -30,6 +30,9 @@ url  = "https://github.com/iambouali"
 [[params.social]]
 name = "linkedin"
 url  = "https://www.linkedin.com/in/iambouali"
+[[params.social]]
+name = "hackerone"
+url  = "https://hackerone.com/iambouali"
 [params]
 customCSS = ["scss/_custom.css"]
 description = "A place where Tarek Bouali share stuff"
