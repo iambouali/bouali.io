@@ -7,9 +7,10 @@ $media-size-tablet: "(max-width: 900px)";
     		padding: 0 !important;
     		margin-left: 5px !important;
 	}
+
+
 	.footer__content {
 		@media #{$media-size-tablet} {
-   	 		display: unset !important;
-		}
+   	 	display: unset !important;
 	}
 }

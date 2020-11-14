@@ -3,7 +3,8 @@
   content: "•" !important;
   padding: 0 !important;
   margin-left: 5px !important; }
-.footer .footer__content {
-  display: unset !important; }
+@media (max-width: 900px) {
+  .footer .footer__content {
+    display: unset !important; } }
 
 /*# sourceMappingURL=_custom.css.map */
