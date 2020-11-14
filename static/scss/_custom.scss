@@ -9,8 +9,4 @@ $media-size-tablet: "(max-width: 900px)";
 	.footer__content {
     		display: unset !important;
 	}
-	& > *:not(:last-child)::after {
-      		content: "•";
-      		padding: 0 5px;
-   	 }
 }
