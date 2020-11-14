@@ -54,6 +54,10 @@ readOtherPosts = "Read other posts"
 logoText     = "$ ./iambouali.sh"
 logoCursorColor    = "#00f701"
 [[menu.main]]
+identifier = "home"
+name       = "Home"
+url        = "/"
+[[menu.main]]
 identifier = "blog"
 name       = "Blog"
 url        = "/posts"
