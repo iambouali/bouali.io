@@ -2,7 +2,6 @@
 .footer .footer__content > :not(:last-child)::after {
   content: "•" !important;
   padding: 0 !important;
-  margin-left: 5px !important;
-  margin-right: -5px !important; }
+  margin-left: 5px !important; }
 
 /*# sourceMappingURL=_custom.css.map */
