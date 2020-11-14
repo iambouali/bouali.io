@@ -16,7 +16,7 @@ disableHugoGeneratorInject = false
 disableReadOtherPosts = false
 enableSharingButtons = true
 [permalinks]
-posts = "/posts/:year/:month/:title/"
+posts = "/posts/:year/:title/"
 # Social icons
 [[params.social]]
 name = "twitter"
@@ -36,6 +36,7 @@ url  = "https://hackerone.com/iambouali"
 [params]
 customCSS = ["scss/_custom.css"]
 description = "A place where Tarek Bouali share stuff"
+enableSharingButtons = true
 images = [""]
 defaultTheme = "light"
 footerLeft = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
