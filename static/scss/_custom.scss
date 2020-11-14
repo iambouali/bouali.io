@@ -7,14 +7,12 @@ $media-size-tablet: "(max-width: 900px)";
     		padding: 0 !important;
     		margin-left: 5px !important;
    		margin-right: -5px !important;
-	}
-	.footer__content {
-    		display: unset !important;
-	}
 	
       		@media #{$media-size-tablet} {
           		content: "•" !important;
           		padding: 0 !important;
           		margin-left: 5px !important;
-      		}
+      			margin-right: 0px !important;
+		}
+	}
 }
