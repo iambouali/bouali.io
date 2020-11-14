@@ -6,13 +6,10 @@
   margin-right: -5px !important; }
 .footer .footer__content {
   display: unset !important; }
-.footer > *:not(:last-child)::after {
-  content: "•";
-  padding: 0 5px; }
-  @media (max-width: 900px) {
-    .footer > *:not(:last-child)::after {
-      content: "•" !important;
-      padding: 0 !important;
-      margin-left: 5px !important; } }
+@media (max-width: 900px) {
+  .footer {
+    content: "•" !important;
+    padding: 0 !important;
+    margin-left: 5px !important; } }
 
 /*# sourceMappingURL=_custom.css.map */

@@ -11,14 +11,10 @@ $media-size-tablet: "(max-width: 900px)";
 	.footer__content {
     		display: unset !important;
 	}
-	& > *:not(:last-child)::after {
-     		content: "•";
-      		padding: 0 5px;
-
+	
       		@media #{$media-size-tablet} {
           		content: "•" !important;
           		padding: 0 !important;
           		margin-left: 5px !important;
       		}
-    	}
 }
