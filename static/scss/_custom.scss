@@ -4,7 +4,8 @@ $media-size-tablet: "(max-width: 900px)";
 .footer {
 	.footer__content > :last-child {
     		content: "•" !important;
-		padding: 0px !important;
+		padding: 0 !important;
+		margin-left: 5px !important;
 	}
 	.footer__content {
     		display: unset !important;
