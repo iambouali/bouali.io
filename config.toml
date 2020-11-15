@@ -47,17 +47,12 @@ tag      = "tags"
 [languages]
 [languages.en]
 title = "Tarek Bouali"
-#subtitle = "Hello World"
+subtitle = "Study & Hack"
 keywords = ""
 readOtherPosts = "Read other posts"
 [languages.en.params.logo]
 logoText     = "$ ./iambouali.sh"
 logoCursorColor    = "#00f701"
-#[[menu.main]]
-#identifier = "home"
-#name       = "Home"
-#url        = "/"
-#weight     = 1 
 [[menu.main]]
 identifier = "blog"
 name       = "Blog"
