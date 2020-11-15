@@ -24,6 +24,8 @@ These are certifications that I have pending and I hope to get them soon.
 * Red Hat Certified System Administrator (RHCSA)
 * Red Hat Certified Engineer (RHCE)
 
+---
+
 ### Book recommendations: 
 
 Below I would like to name a small list of books that I really liked.
