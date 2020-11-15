@@ -7,4 +7,7 @@
   .footer .footer__content {
     display: unset !important; } }
 
+.post {
+  margin-bottom: -10px; }
+
 /*# sourceMappingURL=_custom.css.map */
