@@ -47,7 +47,7 @@ tag      = "tags"
 [languages]
 [languages.en]
 title = "Tarek Bouali"
-subtitle = "Study & Hack"
+homeSubtitle = "Study & Hack"
 keywords = ""
 readOtherPosts = "Read other posts"
 [languages.en.params.logo]
