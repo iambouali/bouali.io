@@ -7,4 +7,7 @@
   .footer .footer__content {
     display: unset !important; } }
 
+hr {
+  background: #81f881 !important; }
+
 /*# sourceMappingURL=_custom.css.map */
