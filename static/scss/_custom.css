@@ -8,6 +8,18 @@
     display: unset !important; } }
 
 .post {
-  margin-bottom: -10px; }
+  margin-bottom: -10px !important; }
+
+.logo {
+  color: white; }
+
+.header {
+  background: #0b0a0a; }
+
+.theme-toggler {
+  color: white; }
+
+.menu-triger {
+  color: white; }
 
 /*# sourceMappingURL=_custom.css.map */
