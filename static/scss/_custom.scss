@@ -31,5 +31,9 @@ $media-size-tablet: "(max-width: 900px)";
 }
 
 .menu-triger {
-    color: white;
+    color: white !important;
+}
+
+.menu {
+    background: #0b0a0a !important;
 }
