@@ -20,6 +20,9 @@
   color: white; }
 
 .menu-triger {
-  color: white; }
+  color: white !important; }
+
+.menu {
+  background: #0b0a0a !important; }
 
 /*# sourceMappingURL=_custom.css.map */
