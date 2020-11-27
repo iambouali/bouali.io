@@ -14,7 +14,7 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 disableReadOtherPosts = false
-enableSharingButtons = true
+enableSharingButtons = false
 [permalinks]
 posts = "/posts/:year/:title/"
 # Social icons
