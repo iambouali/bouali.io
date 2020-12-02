@@ -28,4 +28,7 @@
 .menu__inner {
   color: white; }
 
+.dark-theme .menu {
+  background: #252627 !important; }
+
 /*# sourceMappingURL=_custom.css.map */
