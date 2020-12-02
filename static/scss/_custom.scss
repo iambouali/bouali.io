@@ -41,3 +41,7 @@ $media-size-tablet: "(max-width: 900px)";
 .menu__inner {
     color: white;
 }
+
+.dark-theme .menu {
+    background: #252627 !important;
+}
