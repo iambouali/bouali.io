@@ -37,4 +37,7 @@
 .post-info:first-child {
   display: none !important; }
 
+.posts .post-title {
+  font-size: 1rem !important; }
+
 /*# sourceMappingURL=_custom.css.map */

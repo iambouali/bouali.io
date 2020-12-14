@@ -53,3 +53,7 @@ $media-size-tablet: "(max-width: 900px)";
 .post-info:first-child {
     display: none !important;
 }
+
+.posts .post-title {
+    font-size: 1rem !important;
+}
