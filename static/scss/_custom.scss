@@ -45,3 +45,11 @@ $media-size-tablet: "(max-width: 900px)";
 .dark-theme .menu {
     background: #252627 !important;
 }
+
+.post-title {
+    font-size: 1.4rem !important;
+}
+
+.post-info:first-child {
+    display: none !important;
+}
