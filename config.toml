@@ -14,7 +14,7 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 disableReadOtherPosts = false
-diaqusShortname = "tarek-bouali"
+disqusShortname = "tarek-bouali"
 [permalinks]
 posts = "/posts/:year/:title/"
 # Social icons
