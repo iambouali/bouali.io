@@ -6,7 +6,7 @@ paginate     = 10
 relativeURLs = true
 canonifyURLs = true
 enableRobotsTXT = true
-enableGitInfo   = true
+enableGitInfo   = false
 enableEmoji     = false
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -14,7 +14,7 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 disableReadOtherPosts = false
-enableSharingButtons = false
+diaqusShortname = "tarek-bouali"
 [permalinks]
 posts = "/posts/:year/:title/"
 # Social icons
