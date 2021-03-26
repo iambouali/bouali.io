@@ -5,7 +5,7 @@ draft: false
 author: "Tarek Bouali"
 ---
 
-Hello, my name is Tarek Bouali
+Hello, my name is Tarek
 
 I was born in Tangier, in 1995, and since I was 5 years old I have lived in Spain. I'm a senior technician in multi-platform application development and I'm studying computer engineering right now. I have been a GNU / Linux user for more than 10 years, so I have a very close relationship with free software. I love computer security also and since 3 years I have been participating in lots of bug bounty programs on a casual basis. I have found security flaws in large companies such as Microsoft, Twitter, Tiktok, Firefox, Red Hat, and others, obtaining multiple public acknowledgments. 
 
