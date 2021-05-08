@@ -41,7 +41,8 @@
   font-size: 1rem !important; }
 
 pre {
-  background: #6fb94ca3; }
+  background: #82d55aa3;
+  border-radius: 2px; }
   pre code {
     color: #000; }
 
