@@ -57,3 +57,11 @@ $media-size-tablet: "(max-width: 900px)";
 .posts .post-title {
 	font-size: 1rem !important;
 }
+
+pre {
+	background: #6fb94ca3;
+	
+	code {
+		color: #000;
+	}
+}

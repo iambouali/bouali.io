@@ -40,4 +40,9 @@
 .posts .post-title {
   font-size: 1rem !important; }
 
+pre {
+  background: #6fb94ca3; }
+  pre code {
+    color: #000; }
+
 /*# sourceMappingURL=_custom.css.map */
