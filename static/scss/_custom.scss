@@ -3,57 +3,65 @@ $media-size-tablet: "(max-width: 900px)";
 
 .footer {
 	.footer__content > :not(:last-child)::after {
-    		content: "•" !important;
-    		padding: 0 !important;
-    		margin-left: 5px !important;
+		content: "•" !important;
+		padding: 0 !important;
+		margin-left: 5px !important;
 	}
 	.footer__content {
 		@media #{$media-size-tablet} {
-   	 		display: unset !important;
+			display: unset !important;
 		}
 	}
 }
 
 .post {
-    margin-bottom: -10px !important;
+	margin-bottom: -10px !important;
 }
 
 .logo {
-    color: white;
+	color: white;
 }
 
 .header {
-    background: #0b0a0a;
+	background: #0b0a0a;
 }
 
 .theme-toggler {
-    color: white;
+	color: white;
 }
 
 .menu-trigger {
-    fill: white !important;
+	fill: white !important;
 }
 
 .menu {
-    background: #0b0a0a !important;
+	background: #0b0a0a !important;
 }
 
 .menu__inner {
-    color: white;
+	color: white;
 }
 
 .dark-theme .menu {
-    background: #252627 !important;
+	background: #252627 !important;
 }
 
 .post-title {
-    font-size: 1.4rem !important;
+	font-size: 1.4rem !important;
 }
 
 .post-info:first-child {
-    display: none !important;
+	display: none !important;
 }
 
 .posts .post-title {
-    font-size: 1rem !important;
+	font-size: 1rem !important;
+}
+
+pre {
+	background: #1ed71fb5;
+
+	code {
+		color: #000;
+	}
 }
