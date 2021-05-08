@@ -55,8 +55,9 @@ readOtherPosts = "Read other posts"
 logoText     = "$ ./iambouali.sh"
 logoCursorColor    = "#00f701"
 [[menu.main]]
-name       = "PGP"
-url        = "https://pgp.bouali.io/"
+name       = "PGP Public Key"
+url        = "pgp"
+url        = "/pgp"
 [[menu.main]]
 identifier = "blog"
 name       = "Blog"
