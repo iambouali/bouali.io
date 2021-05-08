@@ -5,6 +5,7 @@ draft: false
 author: "Tarek Bouali"
 ---
 
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGCW+VYBDADYk3DzH9jw3cjChKMmwHUlFNhiHF54+0clJW4I84EiYjFcXYpL
@@ -46,3 +47,4 @@ QSY+7IfDXEP3gIf7pP0nOckQW4EA9CwrJRoc16KvNeVp0wpjXYsh4MU1Id/Z+mm/
 h/Q/D75US5zU7gjHDCheDaYl/A==
 =adQC
 -----END PGP PUBLIC KEY BLOCK-----
+</pre>
