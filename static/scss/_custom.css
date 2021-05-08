@@ -45,4 +45,7 @@ pre {
   pre code {
     color: #000; }
 
+.dark-theme pre code {
+  color: #000; }
+
 /*# sourceMappingURL=_custom.css.map */
