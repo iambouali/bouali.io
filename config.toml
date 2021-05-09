@@ -56,7 +56,7 @@ logoText     = "$ ./iambouali.sh"
 logoCursorColor    = "#00f701"
 [[menu.main]]
 identifier = "pgp"
-name       = "PGP Public Key"
+name       = "PGP"
 url        = "/pgp"
 [[menu.main]]
 identifier = "blog"
